@@ -5,8 +5,8 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    kotlin("jvm") version "1.7.20"
-    kotlin("plugin.serialization") version "1.7.20"
+    kotlin("jvm") version "1.7.22"
+    kotlin("plugin.serialization") version "1.7.22"
     application
 }
 
