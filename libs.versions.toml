@@ -4,7 +4,7 @@
 
 [versions]
 ktor = "2.2.3"
-logging = "3.0.4"
+logging = "3.0.5"
 logback = "1.4.5"
 
 [libraries]
