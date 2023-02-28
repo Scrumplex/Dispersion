@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 [versions]
-ktor = "2.2.3"
+ktor = "2.2.4"
 logging = "3.0.5"
 logback = "1.4.5"
 
